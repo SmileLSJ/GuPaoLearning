@@ -1,2 +1,1 @@
-# GuPaoLearning
-#### Gu Pao 学习视频
+# Gu Pao 学习历程
